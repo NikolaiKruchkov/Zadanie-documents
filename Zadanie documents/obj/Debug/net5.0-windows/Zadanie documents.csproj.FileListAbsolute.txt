@@ -1,0 +1,22 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\bin\Debug\net5.0-windows\Zadanie documents.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\bin\Debug\net5.0-windows\Zadanie documents.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\bin\Debug\net5.0-windows\Zadanie documents.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\bin\Debug\net5.0-windows\Zadanie documents.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\bin\Debug\net5.0-windows\Zadanie documents.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\bin\Debug\net5.0-windows\ref\Zadanie documents.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\bin\Debug\net5.0-windows\Zadanie documents.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\MainWindow.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\App.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents_MarkupCompile.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents_MarkupCompile.lref
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\MainWindow.baml
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.g.resources
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\ref\Zadanie documents.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 15\Zadanie documents\Zadanie documents\obj\Debug\net5.0-windows\Zadanie documents.genruntimeconfig.cache

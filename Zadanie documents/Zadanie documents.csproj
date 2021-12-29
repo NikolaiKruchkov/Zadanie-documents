@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Zadanie_documents</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\1.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\1.jpg" />
+  </ItemGroup>
+
+</Project>
